@@ -1,0 +1,22 @@
+{
+  "name": "development-way",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeman14/development-way.git"
+  },
+  "author": "freeman14",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeman14/development-way/issues"
+  },
+  "homepage": "https://github.com/freeman14/development-way#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
