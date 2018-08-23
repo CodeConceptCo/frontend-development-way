@@ -2,7 +2,7 @@
 
 [Online book](https://development-way.codeconcept.co)
 
-It is a project whose goal is to collect and systematize all the best practices on front-end development and make them one standard in the industry. All practices are designed for teams of any size, regardless of whether you work alone on the project or participate in the development of a large enterprise application.
+The project is aimed at collecting and systematizing all the best practices on front-end development, making the one standard in the industry. All practices are designed for teams of any size, regardless of whether you work alone on a project or get involved in a development of a large enterprise application.
 
 
 ## Table of content:
